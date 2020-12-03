@@ -12,3 +12,7 @@ author_profile: true
 ### Working Papers
 
 * "[Antitrust policy in the time of globalization](https://josempazymino.github.io/files/globalization.pdf)" (with Filomena Garcia and Gustavo Torrens), *Submitted.*
+
+### Work in Progress
+
+Several! Soon to be Working Papers.
