@@ -5,12 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+### Publications
 
-{% include base_path %}
+* "[The merger paradox, collusion, and competition policy](https://onlinelibrary.wiley.com/doi/abs/10.1111/jpet.12448)", *Journal of Public Economic Theory (2020).*
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### Working Papers
+
+* "[Antitrust policy in the time of globalization](https://josempazymino.github.io/files/globalization.pdf)", *Submitted.*
