@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img align="right" src="https://cseveren.github.io/images/personal1.jpg" alt="Photo" style="width: 210px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
+<img align="right" src="https://josempazymino.github.io/images/personal1.jpg" alt="Photo" style="width: 210px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
 I am an Assistant Professor of Economics at the Department of Social Sciences at [Catholic University of Uruguay](https://ucu.edu.uy/en/en). I received my PhD from [Indiana University](https://economics.indiana.edu/). My research interest is industrial organization and in particular, competition policy.
 
 ### About this website
