@@ -13,6 +13,6 @@ I am an Assistant Professor of Economics at the Department of Social Sciences at
 
 I received my PhD from [Indiana University](https://economics.indiana.edu/). My research interest is industrial organization and in particular, competition policy. 
 
-You can download my CV here.
+You can download my CV [here](https://josempazymino.github.io/files/cv_jmpm_en.pdf).
 
 <!-- Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>. Hosted on GitHub Pages. -->
