@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jose Manuel Paz y Mino's Website"
+title                    : "Jose Manuel Paz y Mino"
 title_separator          : "-"
 name                     : &name "Jose Manuel Paz y Mino"
 description              : &description "Jose Manuel Paz y Mino's Academic Website"
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
