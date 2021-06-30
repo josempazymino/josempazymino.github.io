@@ -18,3 +18,5 @@ author_profile: true
 * "[Geopolitics and International Trade Infrastructure]" (with Sebastian Galiani and Gustavo Torrens)
 
 * "[How Do Multiproduct Retailers React to Search Costs Shocks? Evidence from the Covid-19 Pandemic]" (with Stefan Weiergraeber)
+
+* "[Estimation of Industry Conduct in Differentiated Product Markets]" (with Christian Michel and Stefan Weiergraeber)
