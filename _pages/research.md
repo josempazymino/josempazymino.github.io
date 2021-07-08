@@ -11,11 +11,11 @@ author_profile: true
 
 ### Working Papers
 
-* "[Antitrust Policy in the Time of Globalization](https://josempazymino.github.io/files/globalization.pdf)" (with Filomena Garcia and Gustavo Torrens), *Submitted.*
+* "[Nationalistic bias in collusion prosecution: The case for international antitrust agreements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2943073)" (with Filomena Garcia and Gustavo Torrens), *Submitted.*
+
+* "[Geopolitics and International Trade Infrastructure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3882736)" (with Sebastian Galiani and Gustavo Torrens)
 
 ### Work in Progress
-
-* "[Geopolitics and International Trade Infrastructure]" (with Sebastian Galiani and Gustavo Torrens)
 
 * "[How Do Multiproduct Retailers React to Search Costs Shocks? Evidence from the Covid-19 Pandemic]" (with Stefan Weiergraeber)
 
