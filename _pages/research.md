@@ -15,8 +15,8 @@ author_profile: true
 
 * "[Geopolitics and International Trade Infrastructure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3882736)" (with Sebastian Galiani and Gustavo Torrens), *Submitted.*
 
+* "[Estimation of Industry Conduct in Differentiated Product Markets]" (with Christian Michel and Stefan Weiergraeber) *R&R RAND.*
+
 ### Work in Progress
 
 * "[How Do Multiproduct Retailers React to Search Costs Shocks? Evidence from the Covid-19 Pandemic]" (with Stefan Weiergraeber)
-
-* "[Estimation of Industry Conduct in Differentiated Product Markets]" (with Christian Michel and Stefan Weiergraeber)
