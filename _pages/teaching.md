@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### At Catholic University of Uruguay
+### At Universidad Catolica del Uruguay
 
 * Industrial Organization
 * Time Series Econometrics
