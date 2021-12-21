@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jose Manuel Paz y Mino"
+title                    : "Jose Manuel Paz y Miño"
 title_separator          : "-"
-name                     : &name "Jose Manuel Paz y Mino"
-description              : &description "Jose Manuel Paz y Mino's Academic Website"
+name                     : &name "Jose Manuel Paz y Miño"
+description              : &description "Jose Manuel Paz y Miño's Academic Website"
 url                      : https://josempazymino.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "josempazymino/josempazymino.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jose Manuel<br>Paz y Mino"
   avatar           : "personal1.jpg"
-  bio              : "Assistant Professor<br>Economics<br>Catholic University of Uruguay"
+  bio              : "Assistant Professor<br>Economics<br>Universidad Catolica del Uruguay"
   location         : "Montevideo, UY"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=RLgIi6wAAAAJ&hl=en"
