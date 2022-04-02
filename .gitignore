@@ -1,2 +1,10 @@
 _site/
+*.tex
+*.gz
+*.out
+*.log
+*.fls
+*.fdb_*
+*.aux
+
 

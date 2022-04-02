@@ -24,3 +24,5 @@ author_profile: true
 * Fighting Communism with Collusion (with Sebastian Galiani and Gustavo Torrens)
 
 * Demand Shocks and Oligopsonic Market Power (with Stefan Weiergraeber)
+
+* Post-collusion price dynamics (with Stefan Weiergraeber)
