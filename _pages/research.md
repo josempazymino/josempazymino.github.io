@@ -11,17 +11,17 @@ author_profile: true
 
 ### Working Papers
 
-* [Nationalistic bias in collusion prosecution: The case for international antitrust agreements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2943073) (with Filomena Garcia and Gustavo Torrens), ***R&R ScandJE***
-
-* [Geopolitics and International Trade Infrastructure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3882736) (with Sebastian Galiani and Gustavo Torrens), *Submitted.*
+* [Nationalistic bias in collusion prosecution: The case for international antitrust agreements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2943073) (with Filomena Garcia and Gustavo Torrens), ***R&R Scandinavian Journal of Economics***
 
 * Estimation of Industry Conduct in Differentiated Product Markets (with Christian Michel and Stefan Weiergraeber) ***R&R RAND***
+
+* [Geopolitics and International Trade Infrastructure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3882736) (with Sebastian Galiani and Gustavo Torrens)
+
+* Fighting Communism Supporting Collusion (with Sebastian Galiani and Gustavo Torrens)
 
 ### Work in Progress
 
 * How Do Multiproduct Retailers React to Search Costs Shocks? Evidence from the Covid-19 Pandemic (with Stefan Weiergraeber)
-
-* Fighting Communism with Collusion (with Sebastian Galiani and Gustavo Torrens)
 
 * Demand Shocks and Oligopsonic Market Power (with Stefan Weiergraeber)
 
