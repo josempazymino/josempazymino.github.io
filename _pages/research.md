@@ -17,7 +17,7 @@ author_profile: true
 
 * [Geopolitics and International Trade Infrastructure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3882736) (with Sebastian Galiani and Gustavo Torrens)
 
-* Fighting Communism Supporting Collusion (with Sebastian Galiani and Gustavo Torrens)
+* [Fighting Communism Supporting Collusion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4135570) (with Sebastian Galiani and Gustavo Torrens)
 
 ### Work in Progress
 
