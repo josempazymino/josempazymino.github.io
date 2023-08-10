@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <img align="right" src="https://josempazymino.github.io/images/personal1.jpg" alt="Photo" style="width: 210px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
-I am an Assistant Professor of Economics at the Department of Social Sciences at [Universidad Catolica del Uruguay](https://ucu.edu.uy/en/en). 
+I am an Assistant Professor of Economics at the Department of Economics at [Universidad de Chile](https://econ.uchile.cl/). 
 
 I received my PhD from [Indiana University](https://economics.indiana.edu/). My research interest is industrial organization with a focus on (i) measurement and determinants of firm conduct and (ii) how competition authorities and geopolitical players affect markets. 
 
