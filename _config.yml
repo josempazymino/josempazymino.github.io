@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Jose Manuel<br>Paz y Miño"
   avatar           : "personal1.jpg"
-  bio              : "Assistant Professor<br>Economics<br>Universidad Catolica del Uruguay"
+  bio              : "Assistant Professor<br>Economics<br>Universidad de Chile"
   location         : "Montevideo, UY"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=RLgIi6wAAAAJ&hl=en"
-  email            : "jose.pazymino@ucu.edu.uy"
+  email            : "jpazm@fen.uchile.cl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
