@@ -11,9 +11,9 @@ author_profile: true
 
 * [Estimation of Industry Conduct Using Promotional Data](https://josempazymino.github.io/files/conduct_cereal.pdf) (with Christian Michel and Stefan Weiergraeber) ***Forthcoming RAND***
 
-### Working Papers
+* [Nationalistic Bias in Collusion Prosecution: The Case for International Antitrust Agreements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2943073) (with Filomena Garcia and Gustavo Torrens), ***Forthcoming Scandinavian Journal of Economics***
 
-* [Nationalistic Bias in Collusion Prosecution: The Case for International Antitrust Agreements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2943073) (with Filomena Garcia and Gustavo Torrens), ***Conditionally Accepted Scandinavian Journal of Economics***
+### Working Papers
 
 * [Geopolitics and International Trade Infrastructure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3882736) (with Sebastian Galiani and Gustavo Torrens). Submitted
 
