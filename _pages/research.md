@@ -21,7 +21,7 @@ author_profile: true
 
 ### Work in Progress
 
-* How Do Multiproduct Retailers React to Search Costs Shocks? Evidence from the Covid-19 Pandemic (with Stefan Weiergraeber)
+* The Welfare Effects of Price Caps in Search Markets (with Stefan Weiergraeber)
 
 * Demand Shocks and Oligopsony Market Power (with Stefan Weiergraeber)
 
