@@ -23,6 +23,6 @@ author_profile: true
 
 * The Welfare Effects of Price Caps in Search Markets (with Stefan Weiergraeber)
 
-* Demand Shocks and Oligopsony Market Power (with Stefan Weiergraeber)
+* Buyer Conduct and Supply Shocks (with Stefan Weiergraeber)
 
 * Damage estimation under non-price collusive strategies (with Stefan Weiergraeber)
