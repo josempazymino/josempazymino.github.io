@@ -15,7 +15,7 @@ author_profile: true
 
 ### Working Papers
 
-* [Geopolitics and International Trade Infrastructure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3882736) (with Sebastian Galiani and Gustavo Torrens). Submitted
+* [Geopolitics and International Trade Infrastructure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3882736) (with Sebastian Galiani and Gustavo Torrens). ***R\&R JEBO***
 
 * [Fighting Communism Supporting Collusion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4135570) (with Sebastian Galiani and Gustavo Torrens). Submitted
 
@@ -24,5 +24,3 @@ author_profile: true
 * The Welfare Effects of Price Caps in Search Markets (with Stefan Weiergraeber)
 
 * Buyer Conduct and Supply Shocks (with Stefan Weiergraeber)
-
-* Damage estimation under non-price collusive strategies (with Stefan Weiergraeber)
