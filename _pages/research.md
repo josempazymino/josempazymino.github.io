@@ -9,9 +9,9 @@ author_profile: true
 
 * [The Merger Paradox, Collusion, and Competition policy](https://onlinelibrary.wiley.com/doi/abs/10.1111/jpet.12448) (with Filomena Garcia and Gustavo Torrens), ***Journal of Public Economic Theory (2020)***
 
-* [Estimation of Industry Conduct Using Promotional Data](https://josempazymino.github.io/files/conduct_cereal.pdf) (with Christian Michel and Stefan Weiergraeber) ***Forthcoming RAND***
+* [Nationalistic Bias in Collusion Prosecution: The Case for International Antitrust Agreements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2943073) (with Filomena Garcia and Gustavo Torrens), ***Scandinavian Journal of Economics (2024)***
 
-* [Nationalistic Bias in Collusion Prosecution: The Case for International Antitrust Agreements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2943073) (with Filomena Garcia and Gustavo Torrens), ***Forthcoming Scandinavian Journal of Economics***
+* [Estimation of Industry Conduct Using Promotional Data](https://josempazymino.github.io/files/conduct_cereal.pdf) (with Christian Michel and Stefan Weiergraeber) ***Forthcoming RAND***
 
 ### Working Papers
 
