@@ -15,9 +15,9 @@ author_profile: true
 
 ### Working Papers
 
-* [Geopolitics and International Trade Infrastructure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3882736) (with Sebastian Galiani and Gustavo Torrens). ***R&R JEBO***
+* [Geopolitics and International Trade Infrastructure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3882736) (with Sebastian Galiani and Gustavo Torrens). ***R&R Journal of Economic Behavior & Organization***
 
-* [Fighting Communism Supporting Collusion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4135570) (with Sebastian Galiani and Gustavo Torrens). Submitted
+* [Fighting Communism Supporting Collusion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4135570) (with Sebastian Galiani and Gustavo Torrens). ***R&R Journal of International Economics***
 
 ### Work in Progress
 
