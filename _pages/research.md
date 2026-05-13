@@ -17,10 +17,12 @@ author_profile: true
 
 ### Working Papers
 
-* [Fighting Communism Supporting Collusion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4135570) (with Sebastian Galiani and Gustavo Torrens). ***R&R Journal of International Economics***
+* [Fighting Communism Supporting Collusion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4135570) (with Sebastian Galiani and Gustavo Torrens). ***Accepted Journal of International Economics***
 
 ### Work in Progress
 
-* The Welfare Effects of Price Caps in Search Markets (with Stefan Weiergraeber)
-
 * Buyer Conduct and Supply Shocks (with Stefan Weiergraeber)
+
+* On the Design and Success of Entry-Facilitating Merger Remedies (with Ricardo Santolaya)
+
+* Crime, Costs and Export Market Incidence: Evidence from Military Intervention in Chile (with Juan Sebastian Mejias)
