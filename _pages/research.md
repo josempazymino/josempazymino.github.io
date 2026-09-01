@@ -19,10 +19,10 @@ author_profile: true
 
 * [Fighting Communism Supporting Collusion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4135570) (with Sebastian Galiani and Gustavo Torrens). ***Accepted Journal of International Economics***
 
+* Does Trade Discipline Buyer Conduct? Evidence from Uruguayan Meatpacking Plants
+
+* Entry-Facilitating Merger Remedies: Theory and Evidence from the FCA-PSA Merger in Chile (with Ricardo Santolaya)
+
 ### Work in Progress
-
-* Buyer Conduct and Supply Shocks (with Stefan Weiergraeber)
-
-* On the Design and Success of Entry-Facilitating Merger Remedies (with Ricardo Santolaya)
 
 * Crime, Costs and Export Market Incidence: Evidence from Military Intervention in Chile (with Juan Sebastian Mejias)
