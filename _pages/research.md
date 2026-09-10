@@ -26,3 +26,5 @@ author_profile: true
 ### Work in Progress
 
 * Crime, Costs and Export Market Incidence: Evidence from Military Intervention in Chile (with Juan Sebastian Mejias)
+
+* What Is Tax Coordination Worth? Evidence from a Simultaneous Municipal Fuel Tax Adoption in Greater Buenos Aires (with Lyn Villarroel)
