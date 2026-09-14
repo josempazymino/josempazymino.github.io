@@ -19,7 +19,7 @@ author_profile: true
 
 * [Fighting Communism Supporting Collusion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4135570) (with Sebastian Galiani and Gustavo Torrens). ***Accepted Journal of International Economics***
 
-* Does Trade Discipline Buyer Conduct? Evidence from Uruguayan Meatpacking Plants
+* [Does Trade Discipline Buyer Conduct? Evidence from Uruguayan Meatpacking Plants](https://github.com/josempazymino/files/meat_collusion_14092026.pdf) Does Trade Discipline Buyer Conduct? Evidence from Uruguayan Meatpacking Plants
 
 * Entry-Facilitating Merger Remedies: Theory and Evidence from the FCA-PSA Merger in Chile (with Ricardo Santolaya)
 
