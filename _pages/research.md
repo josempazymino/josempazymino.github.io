@@ -21,7 +21,7 @@ author_profile: true
 
 * [Does Trade Discipline Buyer Conduct? Evidence from Uruguayan Meatpacking Plants](https://josempazymino.github.io/files/meat_collusion_general.pdf)
 
-* Entry-Facilitating Merger Remedies: Theory and Evidence from the FCA-PSA Merger in Chile (with Ricardo Santolaya)
+* [Entry-Facilitating Merger Remedies: Theory and Evidence from the FCA-PSA Merger in Chile](https://josempazymino.github.io/files/merger_remedy.pdf)
 
 ### Work in Progress
 
