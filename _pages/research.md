@@ -15,9 +15,9 @@ author_profile: true
 
 * [Geopolitics and International Trade Infrastructure](https://doi.org/10.1016/j.jebo.2025.106996) (with Sebastian Galiani and Gustavo Torrens). ***Journal of Economic Behavior & Organization (2025)***
 
-### Working Papers
+* [Fighting Communism Supporting Collusion](https://doi.org/10.1016/j.jinteco.2026.104353) (with Sebastian Galiani and Gustavo Torrens). ***Journal of International Economics (2026)***
 
-* [Fighting Communism Supporting Collusion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4135570) (with Sebastian Galiani and Gustavo Torrens). ***Accepted Journal of International Economics***
+### Working Papers
 
 * [Does Trade Discipline Buyer Conduct? Evidence from Uruguayan Meatpacking Plants](https://josempazymino.github.io/files/meat_collusion_general.pdf). *Submitted*
 
