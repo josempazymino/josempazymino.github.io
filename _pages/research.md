@@ -23,8 +23,11 @@ author_profile: true
 
 * [Entry-Facilitating Merger Remedies: Theory and Evidence from the FCA-PSA Merger in Chile](https://josempazymino.github.io/files/merger_remedy.pdf). *Submitted*
 
+* The Value of Tax Coordination and Who Pays for It (with Lyn Villarroel)
+
 ### Work in Progress
 
 * Crime, Costs and Export Market Incidence: Evidence from Military Intervention in Chile (with Juan Sebastian Mejias)
 
-* The Value of Tax Coordination and Who Pays for It (with Lyn Villarroel)
+* Absorb or Exclude: Procurement Rules and the Boundary of a Cartel (with Gustavo Torrens)
+
